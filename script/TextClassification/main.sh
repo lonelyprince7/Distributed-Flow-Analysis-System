@@ -1,0 +1,1 @@
+python3 /root/shell/TextClassification/main.py  --output_data_file=/var/lib/mysql-files/testy.csv --model_dir=/root/shell/TextClassification/model/1601623821 --params_dir=/root/shell/TextClassification/params
